@@ -4,10 +4,12 @@
 
 ## Требования
 
-Python 3.12
+- Python 3.12
+- Git
 
-## Запуск
+## Установка
+
+1. Перейди в папку проекта:
 
 ```bash
-python main.py
-```
+cd backend-basics
